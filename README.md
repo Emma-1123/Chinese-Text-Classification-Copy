@@ -2,8 +2,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention, DPCNN, Transformer, 基于pytorch，开箱即用。
-202407
-这里重点学习的文本分类模型是TextCNN、Transformer模型！
+
 
 ## 介绍
 模型介绍、数据流动过程：[我的博客](https://zhuanlan.zhihu.com/p/73176084)  
